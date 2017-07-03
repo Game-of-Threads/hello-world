@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello world!
+
+My name is Steven. I'm a software engineer from the Philippines!
